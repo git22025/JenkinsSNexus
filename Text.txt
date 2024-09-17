@@ -1,3 +1,2 @@
 This is text file
-Hi
-what
+this is newtest
