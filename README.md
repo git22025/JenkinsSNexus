@@ -1,1 +1,1 @@
-# JenkinsSNexus
+# JenkinsSonarqubeNexus
